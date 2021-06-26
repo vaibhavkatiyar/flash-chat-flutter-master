@@ -2,26 +2,9 @@
 
 # Flash Chat ⚡️
 
-## Our Goal
+The chat app is made using firebase features like messaging,authentication and cloud storage. Its a simple chat app where many users can register and chat among themselves.
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.25.01%20PM%20(3).jpeg)
 
-
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
-
-![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/ezgif.com-gif-maker.gif)
-
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
 
