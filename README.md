@@ -6,5 +6,12 @@ The chat app is made using firebase features like messaging,authentication and c
 
 ![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.25.01%20PM%20(3).jpeg)
 
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.25.01%20PM%20(2).jpeg)
+
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.25.01%20PM%20(1).jpeg)
+
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.25.01%20PM.jpeg)
+
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.25.00%20PM.jpeg)
 
 
